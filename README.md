@@ -3,6 +3,10 @@ The Arabic Nonword Generator! Allows anybody to rapidly, reliably generate nonro
 
 This uses Buckwalter’s transliteration scheme, a guide for which can be found on wikipedia: https://en.wikipedia.org/wiki/Buckwalter_transliteration
 
+## What it does
+
+This tool generates a random string of 3 characters (corresponding to Arabic ones), then checks to make sure the string doesn't match any root found in Aralex, an Arabic corpus of >200,000 roots, link here: https://aralex.mrc-cbu.cam.ac.uk/
+
 ## Download Instructions
 
 First, make sure you have Python installed. Link provided here: https://www.python.org/downloads/
