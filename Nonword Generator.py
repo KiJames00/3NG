@@ -27,3 +27,5 @@ for i in range(0, numofwords):
     else:
         print(word)
         word = ""
+        
+input("Press ENTER to exit")
