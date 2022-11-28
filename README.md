@@ -1,5 +1,5 @@
 # 3NG
-The **3**rabii **N**onword **G**enerator! Allows anybody to rapidly, reliably generate nonroots.
+The **3**rabii **N**onroot **G**enerator! Allows anybody to rapidly, reliably generate nonroots.
 
 This uses Buckwalter’s transliteration scheme, a guide for which can be found on wikipedia: https://en.wikipedia.org/wiki/Buckwalter_transliteration
 
